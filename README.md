@@ -56,7 +56,7 @@
 </details>
 
 ## 🖥️ Desarrolladores del proyecto:
-<img align="right" width="200" height="200" src="designs/measuring_oil.gif">
+<img align="right" width="250" height="250" src="designs/measuring_oil.gif">
 
 |       Desarrolladores        |        UOs         |                                                       Perfiles de GitHub                                                       |
 |:----------------------------:|:------------------:|:------------------------------------------------------------------------------------------------------------------------------:|

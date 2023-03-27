@@ -58,7 +58,7 @@
 ## 🖥️ Desarrolladores del proyecto:
 
 |       Desarrolladores        |        UOs         |                                                       Perfiles de GitHub                                                       |
-|:----------------------------:|:------------------:|:------------------------------------------------------------------------------------------------------------------------------:|<img src="designs/measuring_oil.gif">
+|:----------------------------:|:------------------:|:------------------------------------------------------------------------------------------------------------------------------:|
 |    Carlos Diez Fernández     | UO284373@uniovi.es |  <a href="https://github.com/uo284373"><img alt="Carlos" src="https://img.shields.io/badge/UO284373-Carlos Diez-success"></a>  |
 |    Raúl Fernández España     | UO278036@uniovi.es |   <a href="https://github.com/UO278036"><img alt="Raúl" src="https://img.shields.io/badge/UO278036-Raúl Fernández-blue"></a>   |
 |    Omar Teixeira González    | UO281847@uniovi.es |    <a href="https://github.com/Omitg24"><img alt="Omar" src="https://img.shields.io/badge/UO281847-Omar Teixeira-red"></a>     |

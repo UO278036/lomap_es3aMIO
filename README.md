@@ -93,7 +93,7 @@ La lista completa de las tecnologías empleadas, junto con sus decisiones arquit
 </ul>
 
 ## 📑 Instrucciones de despliegue:
-<img align="right" width="150" height="150" src="customer-service.gif">
+<img align="right" width="150" height="150" src="designs/customer-service.gif">
 <p align="justify">
    En primer lugar, se debe instalar Node (puede hacerse a través del enlace en la <a href="🛠-pila-de-tecnologías">pila de tecnologías</a>). En caso de que ya esté instalado, debe asegurarse que se tiene la última versión del mismo.
 </p>

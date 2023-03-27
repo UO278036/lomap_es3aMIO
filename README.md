@@ -56,6 +56,7 @@
 </details>
 
 ## 🖥️ Desarrolladores del proyecto:
+<img align="right" width="100" height="100" src="designs/measuring_oil.gif">
 
 |       Desarrolladores        |        UOs         |                                                       Perfiles de GitHub                                                       |
 |:----------------------------:|:------------------:|:------------------------------------------------------------------------------------------------------------------------------:|
@@ -64,7 +65,7 @@
 |    Omar Teixeira González    | UO281847@uniovi.es |    <a href="https://github.com/Omitg24"><img alt="Omar" src="https://img.shields.io/badge/UO281847-Omar Teixeira-red"></a>     |
 | David Leszek Warzynski Abril | UO278968@uniovi.es | <a href="https://github.com/UO278968"><img alt="David" src="https://img.shields.io/badge/UO278968-David Warzynski-purple"></a> |
 
-<img align="right" width="100" height="100" src="designs/measuring_oil.gif">
+
 ## 🗺️ Descripción del proyecto:
 
 <p align="justify">

@@ -93,13 +93,14 @@ La lista completa de las tecnologías empleadas, junto con sus decisiones arquit
 </ul>
 
 ## 📑 Instrucciones de despliegue:
-<img align="right" width="150" height="150" src="designs/customer-service.gif">
+
 <p align="justify">
    En primer lugar, se debe instalar Node (puede hacerse a través del enlace en la <a href="🛠-pila-de-tecnologías">pila de tecnologías</a>). En caso de que ya esté instalado, debe asegurarse que se tiene la última versión del mismo.
 </p>
 <p align="justify">
    Para ejecutar el proyecto, será necesario clonarlo primero, por lo que es necesario tener git (accede a través del siguiente <a href="https://git-scm.com/downloads">enlace</a>), y posteriormente, clonar este respositorio en un directorio local, ya sea descargándo el repositoio en formato <em>.zip</em> o de la siguiente manera:
 </p>
+<img align="right" width="150" height="150" src="designs/customer-service.gif">
 <ol>
    <li>Dirigirse al directorio local donde clonar el repositorio.</li>
    <li>Abrir la consola o símbolo del sistema.</li>

@@ -82,6 +82,7 @@ A estos marcadores se les podrá añadir diferentes características, como imág
 <p align="justify">
 La lista completa de las tecnologías empleadas, junto con sus decisiones arquitectónicas (ADR), se encuentra en el siguiente <a href="https://github.com/Arquisoft/lomap_es3a/wiki/Decisiones-Arquitectonicas">enlace</a>.
 </p>
+<img align="right" width="200" height="200" src="designs/code.gif">
 <ul>
    <li><a href="https://legacy.reactjs.org/">React</a>.</li>
    <li><a href="https://nodejs.org/en">NodeJS</a>.</li>

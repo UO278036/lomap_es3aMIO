@@ -143,13 +143,10 @@ npm install
 npm start
 ```
 
-<footer align="left">
-   
+<footer align="left">   
+   <img width="100" height="100" src="designs/measuring_oil.gif" style="float:right">
    <a href="https://arquisoft.github.io/">
-     
-      ©Arquisoft - UNIOVI  
-      
+      ©Arquisoft - UNIOVI       
    </a>
-   <img width="100" height="100" src="designs/measuring_oil.gif" style="float:right">>
    <img src="designs/footer.svg">
 </footer>

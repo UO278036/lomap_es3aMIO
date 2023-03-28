@@ -150,6 +150,6 @@ npm start
       ©Arquisoft - UNIOVI  
       
    </a>
-   <img src="designs/measuring_oil.gif" style="float:right">>
+   <img width="100" height="100" src="designs/measuring_oil.gif" style="float:right">>
    <img src="designs/footer.svg">
 </footer>

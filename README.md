@@ -147,5 +147,5 @@ npm start
   <a href="https://arquisoft.github.io/">
     ©Arquisoft - UNIOVI
   </a>
-  <img width="50" height="50" src="designs/measuring_oil.gif">
+  <img align="right" width="50" height="50" src="designs/measuring_oil.gif">
 </footer>

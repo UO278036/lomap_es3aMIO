@@ -150,6 +150,6 @@ npm start
       ©Arquisoft - UNIOVI  
       
    </a>
-   <img src="ruta_de_la_imagen" width="100" height="100">
+   <img align="right" width="200" height="200" src="designs/measuring_oil.gif">
    <img src="designs/footer.svg">
 </footer>

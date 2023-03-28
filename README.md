@@ -144,7 +144,7 @@ npm start
 ```
 
 <footer align="left">
-<img align="center" width="150" height="150" src="designs/measuring_oil.gif">
+<img align="right" width="150" height="150" src="designs/measuring_oil.gif">
    <a href="https://arquisoft.github.io/">
       ©Arquisoft - UNIOVI
    </a>

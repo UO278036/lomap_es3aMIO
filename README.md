@@ -145,7 +145,7 @@ npm start
 
 <footer>
    <p>
-        <a href="https://arquisoft.github.io/">©Arquisoft - UNIOVI</a> <img align="center" width="80" height="80" src="designs/measuring_oil.gif">
+        <a href="https://arquisoft.github.io/">©Arquisoft - UNIOVI</a> <img align="center" width="80" height="80" src="binocularsV2.gif">
    </p>
   <img src="designs/footer.svg">
 </footer>
